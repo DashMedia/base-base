@@ -410,6 +410,7 @@ $base-base-fonts-14: (
   'lato':(
     12px:('d':p2b(10px,$lh)),
     14px:('d':p2b(9px,$lh)),
+    15px:('d':p2b(8px,$lh)),
     16px:('d':p2b(8px,$lh), 1:p2b(1px,$lh)),
     18px:('d':p2b(7px,$lh)),
     19px:('d':p2b(7px,$lh)),
@@ -745,7 +746,7 @@ $base-base-fonts-14: (
     22px:('d':p2b(6px,$lh)),
     24px:('d':p2b(6px,$lh)),
     26px:('d':p2b(12px,$lh)),
-    27px:('d':p2b(12px, $lh)),
+    27px:('d':p2b(12px, $lh), 2:p2b(5px, $lh)),
     28px:('d':p2b(12px,$lh)),
     30px:('d':p2b(11px,$lh)),
     32px:('d':p2b(10px,$lh)),
